@@ -1,0 +1,29 @@
+img{
+    border-radius: 50px;
+}
+body{
+    background-image:url(bim.jpg);
+}
+table{
+    align: center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+ form {
+border-spacing: 30px;
+ }
+ .link{
+     align-self: baseline;
+ }
+ .center{
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+     width: 50%;
+ }
+ ul{
+     color: black;
+ }
